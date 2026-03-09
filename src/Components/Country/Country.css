@@ -1,0 +1,11 @@
+.Country {
+    border: 2px solid aqua;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+}
+
+.visited-country {
+    background-color: rgb(132, 253, 132);
+    color: black;
+}
